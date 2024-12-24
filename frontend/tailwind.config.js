@@ -8,7 +8,7 @@ export default {
     extend: {
       fontFamily: {
         fontInter : ["Inter" , "serif"]
-      } 
+      } ,
     },
   },
   plugins: [],
