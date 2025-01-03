@@ -1,0 +1,24 @@
+{
+  "name": "dream-estate",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Dinesh-Jana-22/Dream-estates#readme",
+  "bugs": {
+    "url": "https://github.com/Dinesh-Jana-22/Dream-estates/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dinesh-Jana-22/Dream-estates.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node backend/index.js",
+    "nodemonstart": "nodemon backend/index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
